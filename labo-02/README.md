@@ -6,11 +6,11 @@ Naam: (jouw naam)
 
 Welke elementen raakt elke selector? Eén zin per selector.
 
-- a. `header nav ul li a`: 
-- b. `article > p`: 
-- c. `.uren li:nth-child(3)`: 
-- d. `h2 ~ p`: 
-- e. `.rassen li:first-child`: 
+- a. `header nav ul li a`: Adopteren, onze bewoner en Openingsuren
+- b. `article > p`: Alle paragrafen (p) vanaf "een dier adopteren" tot en met "je kan zonder afspraak langskomen"
+- c. `.uren li:nth-child(3)`: Woensdag: 14-18u 
+- d. `h2 ~ p`: Alle paragrafen net na de titels (Adopteren, Onze bewoners, Openingsuren)
+- e. `.rassen li:first-child`: Honden
 
 ## 3. Voorspel, dan kijk
 
